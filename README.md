@@ -21,25 +21,4 @@
 </div>
 
 ---
-
-## 🌟 About Me
-
-> I'm a passionate **Full-Stack Developer** and **Tech Enthusiast** with a deep love for creating beautiful, functional, and scalable web applications. Inspired by **Satoru Gojo's** determination, I combine creativity with technical expertise to deliver exceptional digital solutions.
-
-### 🎯 My Journey
-
-- 🌱 Started my coding journey with a dream to make an impact through technology
-- 💼 Worked on diverse projects ranging from startups to enterprise solutions
-- 🚀 Continuously learning and evolving with the ever-changing tech landscape
-- 🎓 Self-taught developer with a hunger for knowledge and growth
-- 🌍 Part of the global developer community, always sharing and learning
-
-### 🔥 What Drives Me
-
-- **Innovation** → Creating cutting-edge solutions using latest technologies
-- **Quality** → Writing clean, maintainable, and well-documented code
-- **Collaboration** → Believing in the power of teamwork and open-source community
-- **Impact** → Building products that solve real problems and improve lives
-- **Learning** → Constantly exploring new frameworks, languages, and paradigms
-
-### 💪 My Superpowers
+antly exploring new frameworks, languages, and paradigms
