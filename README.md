@@ -1,6 +1,10 @@
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDB6ZWdzOGhtdnR2bWhpaWdhN3ZkcWl6OHlid3FqY293bGFiemRyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/orvJf7kwgc2iakssc4/giphy.gif" width="500" alt="Satoru Gojo - Jujutsu Kaisen"/>
+</div>
+
 <h1 align="center">
   <a href="https://github.com/satoru-gojo-max">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Satoru;Full+Stack+Developer;Anime+Enthusiast+🔥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Satoru;Full+Stack+Developer;Anime+Enthusiast+🔥;Jujutsu+Kaisen+Fan" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -13,9 +17,9 @@
 ### 🌟 About Me
 - 🎨 Creative developer passionate about elegant solutions
 - 💻 Full Stack Developer | JavaScript | React | Node.js
-- 🎌 Anime lover inspired by Jujutsu Kaisen
+- 🔮 Inspired by Satoru Gojo - always pushing boundaries
 - 🚀 Always learning and exploring new technologies
-- 🎯 Turning ideas into reality
+- 🎯 Turning ideas into reality with "Unlimited Power"
 
 </div>
 
